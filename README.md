@@ -1,4 +1,4 @@
-# 🌐 Web3Work – Decentralized Talent Marketplace
+# 🌐 Swipe Gig – Decentralized Talent Marketplace
 
 **Find Work. Find Talent. Decentralized. Instant.**
 
